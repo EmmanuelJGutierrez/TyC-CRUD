@@ -2,7 +2,7 @@
 
 ## Descripcion:
 
-"  " es un Sistema de **Tickets** y **Consultas** que busca no solo solucionar errores y consultas por parte de los usuarios consumidores, sino que tambien *comunicar*, *delegar* y *anunciar* esto a otros empleados. Por un lado tanto como los *Tickets* como las *Consultas* van a contar con sus respectivos estados, *prioridades* y deberan tener detallados en una breve descripcion de que tratara cada solicitud o consulta.
+TyC - Sistema de Tickets y Consultas es un Sistema de **Tickets** y **Consultas** que busca no solo solucionar errores y consultas por parte de los usuarios consumidores, sino que tambien *comunicar*, *delegar* y *anunciar* esto a otros empleados. Por un lado tanto como los *Tickets* como las *Consultas* van a contar con sus respectivos estados, *prioridades* y deberan tener detallados en una breve descripcion de que tratara cada solicitud o consulta.
 
 ## Tipos de Usuario:
 
